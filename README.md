@@ -1,7 +1,5 @@
 - 👋 Oi, sou @eltonAlafe
-- 👀 Estou interessado em Automção de Testes
-- 🌱 Atualmente estou aprendendo Automção Mobile
-- 📫 Como me alcançar ...
+- 👀 Estou interessado em Automação de Testes
 
 <!---
 eltonalafe/eltonalafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
