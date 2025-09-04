@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td colspan="4">
-      <h4><b>Linguagens</b></h4>
+      <b>Linguagens</b>
     </td>
   </tr>
   <tr>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td colspan="4">
-      <h4><b>Back-End</b></h4>
+      <b>Back-End</b>
     </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td colspan="4">
-      <h4><b>Front-End & Mobile</b></h4>
+      <b>Front-End & Mobile</b>
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td colspan="4">
-      <h4><b>Banco de Dados</b></h4>
+      <b>Banco de Dados</b>
     </td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td colspan="4">
-      <h4><b>DevOps & Cloud</b></h4>
+      <b>DevOps & Cloud</b>
     </td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@
   </tr>
   <tr>
     <td colspan="4">
-      <h4><b>Ferramentas</b></h4>
+      <b>Ferramentas</b>
     </td>
   </tr>
   <tr>
