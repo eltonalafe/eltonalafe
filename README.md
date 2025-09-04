@@ -2,8 +2,6 @@
 
 ![Logo]()
 
-
-## Elton Alafe
 ---
 ### Domínio Principal: Back-End & DevOps  
 
