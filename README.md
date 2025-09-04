@@ -4,9 +4,9 @@
 
 
 # Elton Alafe
-# Domínio Principal: Back-End & DevOps  
+Domínio Principal: Back-End & DevOps  
 
-# Front-End & Mobile (Foco em JavaScript)
+Front-End & Mobile (Foco em JavaScript)
 
 Olá, sou um desenvolvedor focado em soluções e aprendizado contínuo. Atualmente, estou consolidando minha carreira como um profissional T-shaped, com profundidade em Back-end & DevOps (Python, Java, Node.js) e uma visão abrangente do ecossistema Front-end e Mobile, com foco em JavaScript/TypeScript. Meu objetivo é aplicar as práticas essenciais para construir e operar sistemas modernos e de alta performance
 
