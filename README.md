@@ -1,11 +1,13 @@
 
 
-![Logo](https://i.ibb.co/XVygCLW/e8af3df0-29ea-43af-9f4c-8a7c8631c1af.jpg)
+![Logo]()
 
 
 # Elton Alafe
+Domínio Principal: Back-End & DevOps
+Front-End & Mobile (Foco em JavaScript)
 
-Olá, gosto de resolver problemas, vejo cada desafio como uma oportunidade de aprendizado. Estou sempre buscando melhorar minhas habilidades, tanto técnicas quanto interpessoais. Atualmente, estou focado em estudar Análise e Desenvolvimento de Sistemas com ênfase em desenvolvimento Full-stack na Descomplica, buscando entender as tecnologias e práticas mais relevantes para o campo de | Back-end | Java | Node.js |JavaScript/TypeScript.
+Olá, sou um desenvolvedor focado em soluções e aprendizado contínuo. Atualmente, estou consolidando minha carreira como um profissional T-shaped, com profundidade em Back-end & DevOps (Python, Java, Node.js) e uma visão abrangente do ecossistema Front-end e Mobile, com foco em JavaScript/TypeScript. Meu objetivo é aplicar as práticas essenciais para construir e operar sistemas modernos e de alta performance
 
 Contatos
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-alafe-7310891a6) | [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://twitter.com/EltonAlafe) | [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eltonalafe@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eltonalafe)
