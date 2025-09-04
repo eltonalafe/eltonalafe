@@ -2,20 +2,14 @@
   <style>
     .text {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-      font-size: 36px; 
+      font-size: 36px;
       font-weight: bold;
-      /* Cor Padrão (para o Tema Escuro do GitHub) */
-      fill: #FFFFFF; 
-    }
-    
-    /* Media Query para o Tema Claro */
-    @media (prefers-color-scheme: light) {
-      .text {
-        /* Nova cor para o Tema Claro (um vermelho escuro para boa leitura) */
-        fill: #C00000; 
-      }
     }
   </style>
   
-  <text x="0" y="36" class="text">Elton Alafe</text>
+  <text x="2" y="38" class="text" fill="#00FFFF">Elton Alafe</text>
+  
+  <text x="-2" y="34" class="text" fill="#FF00FF">Elton Alafe</text>
+  
+  <text x="0" y="36" class="text" fill="#FFFFFF">Elton Alafe</text>
 </svg>
