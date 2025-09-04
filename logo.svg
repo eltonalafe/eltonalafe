@@ -1,11 +1,13 @@
-<svg width="320" height="50" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="50" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .comment {
+    .text {
       font-family: 'Courier New', Courier, monospace;
-      font-size: 32px;
-      fill: #8b949e; /* Cor de comentário do GitHub */
+      font-size: 36px;
+      font-weight: bold;
     }
   </style>
   
-  <text x="0" y="34" class="comment">// Elton Alafe</text>
+  <text x="2" y="36" class="text" fill="#39FF14" opacity="0.6">Elton Alafe</text>
+  
+  <text x="0" y="36" class="text" fill="#39FF14">Elton Alafe</text>
 </svg>
