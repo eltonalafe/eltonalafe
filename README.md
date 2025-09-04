@@ -1,6 +1,6 @@
 
 
-![Logo]()
+![Logo](https://raw.githubusercontent.com/eltonalafe/eltonalafe/main/logo.svg)
 
 ---
 ### Domínio Principal: Back-End & DevOps  
