@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td colspan="4">
+    <td colspan="4" align="center">
       <b>Linguagens</b>
     </td>
   </tr>
@@ -28,7 +28,7 @@
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
   </tr>
   <tr>
-    <td colspan="4">
+    <td colspan="4" align="center">
       <b>Back-End</b>
     </td>
   </tr>
@@ -39,7 +39,7 @@
     <td></td>
   </tr>
   <tr>
-    <td colspan="4">
+    <td colspan="4" align="center">
       <b>Front-End & Mobile</b>
     </td>
   </tr>
@@ -50,7 +50,7 @@
     <td></td>
   </tr>
   <tr>
-    <td colspan="4">
+    <td colspan="4" align="center">
       <b>Banco de Dados</b>
     </td>
   </tr>
@@ -61,7 +61,7 @@
     <td></td>
   </tr>
   <tr>
-    <td colspan="4">
+    <td colspan="4" align="center">
       <b>DevOps & Cloud</b>
     </td>
   </tr>
@@ -72,7 +72,7 @@
     <td></td>
   </tr>
   <tr>
-    <td colspan="4">
+    <td colspan="4" align="center">
       <b>Ferramentas</b>
     </td>
   </tr>
