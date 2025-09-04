@@ -1,6 +1,5 @@
-
-
-![Logo](https://raw.githubusercontent.com/eltonalafe/eltonalafe/main/logo.svg)
+<object type="image/svg+xml" data="https://raw.githubusercontent.com/eltonalafe/eltonalafe/main/logo.svg" width="280" height="50">
+</object>
 
 ---
 ### Domínio Principal: Back-End & DevOps  
