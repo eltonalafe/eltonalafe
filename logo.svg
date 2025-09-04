@@ -2,9 +2,9 @@
   <style>
     .text {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-      font-size: 36px; /* Ajustei o tamanho para caber melhor */
+      font-size: 36px; 
       font-weight: bold;
-      fill: #c9d1d9; /* Cor padrão para tema escuro */
+      fill: #FFFFFF; /* Cor padrão: Branco */
       
       /* Efeito de transição suave */
       transition: fill 0.3s ease;
@@ -12,7 +12,7 @@
     
     /* A mágica que acontece ao passar o mouse */
     .text:hover {
-      fill: #58a6ff; /* Azul do GitHub */
+      fill: #FF0000; /* Cor ao passar o mouse: Vermelho */
       cursor: pointer;
     }
   </style>
