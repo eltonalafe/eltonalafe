@@ -1,24 +1,21 @@
-<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
+<svg width="280" height="50" xmlns="http://www.w3.org/2000/svg">
   <style>
     .text {
-      font-family: monospace; /* Fonte monoespaçada para o efeito */
-      font-size: 38px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+      font-size: 36px; /* Ajustei o tamanho para caber melhor */
       font-weight: bold;
-      fill: #c9d1d9;
-      stroke: #c9d1d9;
-      stroke-width: 1;
-      white-space: pre;
-      overflow: hidden;
-      width: 5ch; /* 5 caracteres: E,  , /,  , A */
-
-      /* Animação do cursor piscando */
-      animation: blink 1s step-end infinite;
+      fill: #c9d1d9; /* Cor padrão para tema escuro */
+      
+      /* Efeito de transição suave */
+      transition: fill 0.3s ease;
     }
     
-    @keyframes blink {
-      0%, 100% { stroke: #c9d1d9; }
-      50% { stroke: transparent; }
+    /* A mágica que acontece ao passar o mouse */
+    .text:hover {
+      fill: #58a6ff; /* Azul do GitHub */
+      cursor: pointer;
     }
   </style>
-  <text x="0" y="38" class="text">Elton Alafe</text>
+  
+  <text x="0" y="36" class="text">Elton Alafe</text>
 </svg>
