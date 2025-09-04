@@ -1,6 +1,6 @@
 
 
-[![Elton Alafe](https://raw.githubusercontent.com/eltonalafe/eltonalafe/main/logo.svg)](https://www.linkedin.com/in/SEU_PERFIL_AQUI)
+[![Elton Alafe](https://raw.githubusercontent.com/eltonalafe/eltonalafe/main/logo.svg)]((https://www.youtube.com/watch?v=gAjR4_CbPpQ))
 
 ---
 ### Domínio Principal: Back-End & DevOps  
