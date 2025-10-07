@@ -6,10 +6,13 @@
       font-weight: bold;
     }
   </style>
-  
-  <text x="-5" y="36" class="text" fill="#FF0000" opacity="0.8">Elton Alafe</text>
-  
-  <text x="5" y="36" class="text" fill="#00FFFF" opacity="0.8">Elton Alafe</text>
-  
-  <text x="0" y="36" class="text" fill="#FFFFFF">Elton Alafe</text>
+
+  <text x="-5" y="36" class="text" fill="#FF0000" opacity="0.8">👋 Olá, sou o Elton Alafe!
+</text>
+
+  <text x="5" y="36" class="text" fill="#00FFFF" opacity="0.8">👋 Olá, sou o Elton Alafe!
+</text>
+
+  <text x="0" y="36" class="text" fill="#FFFFFF">👋 Olá, sou o Elton Alafe!
+</text>
 </svg>
