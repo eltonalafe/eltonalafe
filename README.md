@@ -1,4 +1,6 @@
-# 👋 Olá, sou o Elton Alafe!
+<p align="center">
+  <img src="logo.svg" alt="Olá, sou o Elton Alafe!"/>
+</p>
 
 Sou um desenvolvedor que gosta de entender o todo: mergulho fundo nos desafios de Back-end e DevOps com Python, Java e Node.js, mas faço questão de manter um pé no universo Front-end e Mobile. Para mim, a tecnologia é sobre conectar pontas, e meu conhecimento em JavaScript/TypeScript me ajuda nisso.
 
