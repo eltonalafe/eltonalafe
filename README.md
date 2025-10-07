@@ -1,85 +1,78 @@
+# 👋 Olá, sou o Elton Alafe!
 
-
-[![Elton Alafe](https://raw.githubusercontent.com/eltonalafe/eltonalafe/main/logo.svg)](https://www.youtube.com/watch?v=_JPa3BNi6l4)
+Sou um desenvolvedor que gosta de entender o todo: mergulho fundo nos desafios de Back-end e DevOps com Python, Java e Node.js, mas faço questão de manter um pé no universo Front-end e Mobile. Para mim, a tecnologia é sobre conectar pontas, e meu conhecimento em JavaScript/TypeScript me ajuda nisso.
 
 ---
-### Domínio Principal: Back-End & DevOps  
 
-### Front-End & Mobile (Foco em JavaScript)
+## 🛠️ Minhas Habilidades
+
+### Linguagens
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+
+### Back-End
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+</p>
+
+### Front-End & Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</p>
+
+### Banco de Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### DevOps & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+</p>
+
+### Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+</p>  
+[![Card do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=eltonalafe&repo=logica-programacao-multilang&theme=dark)](https://github.com/eltonalafe/logica-programacao-multilang)
+
 ---
-#### Olá, sou um desenvolvedor focado em soluções e aprendizado contínuo. Atualmente, estou consolidando minha carreira como um profissional T-shaped, com profundidade em Back-end & DevOps (Python, Java, Node.js) e uma visão abrangente do ecossistema Front-end e Mobile, com foco em JavaScript/TypeScript. Meu objetivo é aplicar as práticas essenciais para construir e operar sistemas modernos e de alta performance.
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eltonalafe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonalafe&layout=compact&langs_count=6&theme=dark"/>
+</p>
+
 ---
-## Contatos
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-alafe-7310891a6) | [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://twitter.com/EltonAlafe) | [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eltonalafe@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eltonalafe)
-|-|-|-|-|
 
-### Stacks
+## 📬 Conecte-se Comigo
 
-<table>
-  <tr>
-    <td colspan="4" align="center">
-      <b>Linguagens</b>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
-      <b>Back-End</b>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></td>
-    <td><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
-      <b>Front-End & Mobile</b>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></td>
-    <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/></td>
-    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
-      <b>Banco de Dados</b>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></td>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
-      <b>DevOps & Cloud</b>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></td>
-    <td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></td>
-    <td><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
-      <b>Ferramentas</b>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></td>
-    <td><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.linkedin.com/in/elton-alafe-7310891a6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/EltonAlafe" target="_blank">
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:eltonalafe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/eltonalafe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
