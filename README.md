@@ -45,8 +45,16 @@ Sou um desenvolvedor que gosta de entender o todo: mergulho fundo nos desafios d
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
 </p>  
-[![Card do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=eltonalafe&repo=logica-programacao-multilang&theme=dark)](https://github.com/eltonalafe/logica-programacao-multilang)
+---
+## 🚀 Projeto em Destaque
 
+Este é meu repositório dedicado aos estudos de Lógica de Programação, Algoritmos e Estruturas de Dados, com implementações em diversas linguagens. É um projeto que demonstra minha organização, disciplina e a base do meu conhecimento como desenvolvedor.
+
+<p align="center">
+  <a href="https://github.com/eltonalafe/logica-programacao-multilang" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eltonalafe&repo=logica-programacao-multilang&theme=dark" alt="Card do Projeto de Lógica de Programação"/>
+  </a>
+</p>
 ---
 
 ## 📈 Estatísticas do GitHub
