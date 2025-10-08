@@ -60,10 +60,8 @@ Este é meu repositório dedicado aos estudos de Lógica de Programação, Algor
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eltonalafe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonalafe&layout=compact&langs_count=6&theme=dark"/>
-</p>
 
 ---
 
