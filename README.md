@@ -52,11 +52,9 @@ Sou um desenvolvedor que gosta de entender o todo: mergulho fundo nos desafios d
 
 Este é meu repositório dedicado aos estudos de Lógica de Programação, Algoritmos e Estruturas de Dados, com implementações em diversas linguagens. É um projeto que documenta e demonstra minha organização, disciplina e a base do meu conhecimento como desenvolvedor.
 
-<p align="center">
   <a href="https://github.com/eltonalafe/logica-programacao-multilang" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eltonalafe&repo=logica-programacao-multilang&theme=dark" alt="Card do Projeto de Lógica de Programação"/>
   </a>
-</p>
 
 ---
 
