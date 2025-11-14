@@ -1,52 +1,45 @@
 <img src="logo.svg" alt="Olá, sou o Elton Alafe!"/>
 
-Sou um desenvolvedor que gosta de entender o todo: mergulho fundo nos desafios de Back-end e DevOps com Python, Java e Node.js, mas faço questão de manter um pé no universo Front-end e Mobile. Para mim, a tecnologia é sobre conectar pontas, e meu conhecimento em JavaScript/TypeScript me ajuda nisso.
+Sou um desenvolvedor que gosta de entender o todo: mergulho fundo nos desafios de Back-end e DevOps com Python, mas faço questão de manter um pé no universo Front-end e Mobile. Para mim, a tecnologia é sobre conectar pontas, e meu conhecimento em TypeScript/Vite me ajuda nisso.
 
 ---
 
-## 🛠️ Minhas Habilidades
+## 🛠️ Minhas Habilidades (Foco em Python)
 
-### Linguagens
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-### Back-End
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-</p>
-
-### Front-End & Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-</p>
-
-### Banco de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-### DevOps & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-</p>
-
-### Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-</p>
-
----
+<table>
+  <tr>
+    <td align="right" valign="top"><strong>Linguagem & API:</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>Banco de Dados & ORM:</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+      <img src="https://img.shields.io/badge/Alembic-4E86A6?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>Qualidade & Testes:</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+      <img src="https://img.shields.io/badge/code%20style-Black-000000.svg?style=for-the-badge" alt="Black"/>
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>DevOps & Infra:</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Docker_Compose-3B76C0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Projeto em Destaque
 
