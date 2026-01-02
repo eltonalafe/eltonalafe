@@ -4,67 +4,34 @@
 
 <br/>
 
-### 👋 Sobre Mim
+Desenvolvedor Full-stack com especialização em **Back-end**. Construo aplicações web escaláveis utilizando TypeScript, Node.js e Rust para componentes críticos. Também trabalho com Python para análise de dados e IA.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na faculdade **Insted**, em Campo Grande/MS. 
+### 🛠️ Tech Stack
 
-Atualmente, estou focado em construir uma base sólida em programação. Meus estudos estão direcionados ao **Back-end com Python**, mas também gosto de entender como as coisas funcionam no Front-end. Sou movido pela curiosidade e estou constantemente praticando lógica de programação e criando projetos para fixar o aprendizado.
+**Front-end**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-🎯 **Objetivo:** Busco minha primeira oportunidade de **estágio** para aplicar o que estudo em sala de aula e evoluir tecnicamente em um ambiente real.
-
----
-
-### 📚 O que estou estudando
-
-<table>
-  <tr>
-    <td align="right" valign="top"><strong>Linguagens:</strong></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="top"><strong>Ferramentas:</strong></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    </td>
-  </tr>
-</table>
+**Back-end** → **[📖 Ver especialização completa](./BACKEND.md)**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-### 🚀 Destaque: Meus Estudos
-
-Este repositório reflete minha dedicação diária. Aqui organizo meus estudos de **Lógica de Programação e Algoritmos**, que considero a base essencial para qualquer desenvolvedor.
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/eltonalafe/logica-programacao-multilang" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eltonalafe&repo=logica-programacao-multilang&theme=dark" alt="Card do Projeto de Lógica de Programação"/>
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eltonalafe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonalafe&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📬 Contato
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eltonalafe&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonalafe&layout=compact&langs_count=6&theme=dark" alt="Top Linguagens"/>
-</div>
-
----
-
-### 📬 Vamos conversar?
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/elton-alafe-7310891a6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:eltonalafe@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-alafe-7310891a6)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eltonalafe@gmail.com)
